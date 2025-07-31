@@ -9,13 +9,13 @@
 
 main:
   #- title: "Publications"
-   # url: /publications/
+  #  url: /publications/
 
   #- title: "Talks"
-   # url: /talks/    
+  #  url: /talks/    
 
   #- title: "Teaching"
-   # url: /teaching/    
+  #  url: /teaching/    
     
   - title: "Portfolio PT"
     url: /portfolio-pt/
@@ -24,10 +24,11 @@ main:
     url: /portfolio-en/
     
   #- title: "CV"
-   # url: /cv/
+  #  url: /cv/
     
-   - title: "CV EN"
-     url: /files/Sarahbs_EN_CV.pdf/
+  - title: "CV EN"
+    url: /files/Sarahbs_EN_CV.pdf/
     
   - title: "CV PT"
     url: /files/Sarahbs_Data_CV.pdf/
+
