@@ -22,9 +22,10 @@ Olá, me chamo Sarah Borges 👋 — Atualmente estou cursando Mestrado em Model
 ---
 
 ## Certificates				       		
-- Power BI | <a href="https://coursera.org/share/cc34c3b14416701a48343f7e402a2637" target="_blank">Extract, Transform and Load Data in Power BI</a> (Microsoft on Coursera Plataform); <a href="https://coursera.org/share/0438e54299b19fe20af7a1a2a5d73c08" target="_blank">Harnessing the Power of Data with Power BI</a> (Microsoft on Coursera Plataform);
-- Python | <a href="https://coursera.org/share/cdf9f3d2cd861c9e1589e42139871a72" target="_blank">Python Data Structures</a> (University of Michigan on Coursera Plataform);
-- Data Analysis | <a href="https://www.coursera.org/account/accomplishments/specialization/LRX6T4ZB9Y35" target="_blank">Google Data Analytics Specialization</a> (8 Course Series by Google on Coursera Plataform)
+- Power BI | <a href="https://coursera.org/share/cc34c3b14416701a48343f7e402a2637" target="_blank">Extract, Transform and Load Data in Power BI</a> - Microsoft on Coursera Plataform; <a href="https://coursera.org/share/0438e54299b19fe20af7a1a2a5d73c08" target="_blank">Harnessing the Power of Data with Power BI</a> - Microsoft on Coursera Plataform;
+- Python | <a href="https://coursera.org/share/cdf9f3d2cd861c9e1589e42139871a72" target="_blank">Python Data Structures</a> - University of Michigan on Coursera Plataform;
+- Data Analysis | <a href="https://www.coursera.org/account/accomplishments/specialization/LRX6T4ZB9Y35" target="_blank">Google Data Analytics Specialization</a> - 8 Course Series by Google on Coursera Plataform
+- Qlik Sense | <a href="https://coursera.org/share/4b132a15f7533276ccb351b45a0c7a01" target="_blank">Introduction to Data Visualization in Qlik Sense</a> - Course offered by Coursera Instructor Network
   
 ---
 
