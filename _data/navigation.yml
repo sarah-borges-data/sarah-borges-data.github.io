@@ -18,10 +18,10 @@ main:
   #  url: /teaching/    
     
   - title: "Portfolio PT"
-    url: /publications/
+    url: /portfoliopt/
         
   - title: "Portfolio EN"
-    url: /portfolio/
+    url: /portfolioen/
     
   #- title: "CV"
   #  url: /cv/
