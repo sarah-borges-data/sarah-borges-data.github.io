@@ -22,7 +22,7 @@ Olá, me chamo Sarah Borges 👋 — Atualmente estou cursando Mestrado em Model
 ---
 
 ## Certificates				       		
-- 
+- Power BI | <a href="https://coursera.org/share/cc34c3b14416701a48343f7e402a2637" target="_blank">Extract, Transform and Load Data in Power BI</a>; 
   
 ---
 
