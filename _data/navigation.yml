@@ -17,11 +17,11 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio PT"
-    url: /portfoliopt/
+  #- title: "Portfolio PT"
+   # url: /portfoliopt/
         
-  - title: "Portfolio EN"
-    url: /portfolioen/
+  - title: "Portfolio"
+    url: /portfolio/
     
   #- title: "CV"
   #  url: /cv/
