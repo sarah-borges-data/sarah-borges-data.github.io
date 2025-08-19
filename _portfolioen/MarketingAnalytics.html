@@ -1,0 +1,25 @@
+---
+title: "Marketing Analytics - Power BI Project"
+excerpt: "Analysis of marketing data and customer feedbacks to generate insights - Tools: Power BI, SQL, Python<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Power BI</title>
+</head>
+<body>
+  <h2>Meu Dashboard Power BI</h2>
+  <iframe title="Viz_MarketingAnalytics" 
+          width="1140" 
+          height="541.25" 
+          src="https://app.powerbi.com/reportEmbed?reportId=b4dac9f6-f577-481a-a408-5b301f6b50af&autoAuth=true&ctid=b7821bc8-67cc-447b-b579-82f7854174fc&actionBarEnabled=true" 
+          frameborder="0" 
+          allowFullScreen="true">
+  </iframe>
+</body>
+</html>
