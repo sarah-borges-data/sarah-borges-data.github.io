@@ -22,11 +22,11 @@ Olá, me chamo Sarah Borges 👋 — Atualmente estou cursando Mestrado em Model
 ---
 
 ## Skills					       		
-- **Data Visualization:** | Power Bi | Looker | Qlik Sense
-- **Data Analysis:** | Python | SQL | Excel | Google Sheets|
-- **Digital Marketing:** | Google Ads | Meta Ads (Facebook) | Google Analytics (universal and 4) | GTM
-- **Machine Learning:** | Scikit-Learn
-- **Languages:** Portuguese (Native) | English (C1) | Spanish (A2)
+- **Data Visualization:** Power Bi; Looker; Qlik Sense
+- **Data Analysis:** Python; SQL; Excel; Google Sheets
+- **Digital Marketing:** Google Ads; Meta Ads (Facebook); Google Analytics (universal and 4); GTM
+- **Machine Learning:** Scikit-Learn
+- **Languages:** Portuguese (Native); English (C1); Spanish (A2)
 
 ---
 
