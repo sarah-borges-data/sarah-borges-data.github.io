@@ -21,6 +21,15 @@ Olá, me chamo Sarah Borges 👋 — Atualmente estou cursando Mestrado em Model
 
 ---
 
+## Skills					       		
+- **Data Visualization:** | Power Bi | Looker | Qlik Sense
+- **Data Analysis:** | Python | SQL | Excel | Google Sheets|
+- **Digital Marketing:** | Google Ads | Meta Ads (Facebook) | Google Analytics (universal and 4) | GTM
+- **Machine Learning:** | Scikit-Learn
+- **Languages:** Portuguese (Native) | English (C1) | Spanish (A2)
+
+---
+
 ## Certificates				       		
 - **Power BI:**
     - <a href="https://coursera.org/share/cc34c3b14416701a48343f7e402a2637" target="_blank">Extract, Transform and Load Data in Power BI</a> - Microsoft on Coursera Plataform;
