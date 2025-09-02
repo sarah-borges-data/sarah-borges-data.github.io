@@ -26,6 +26,7 @@ Olá, me chamo Sarah Borges 👋 — Atualmente estou cursando Mestrado em Model
 - **Data Analysis:** Python; SQL; Excel; Google Sheets
 - **Digital Marketing:** Google Ads; Meta Ads (Facebook); Google Analytics (universal and 4); GTM
 - **Machine Learning:** Scikit-Learn
+- **Data Warehouse:** BigQuery
 - **Languages:** Portuguese (Native); English (C1); Spanish (A2)
 
 ---
