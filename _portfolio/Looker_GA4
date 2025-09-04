@@ -1,0 +1,35 @@
+---
+title: "Marketing Performance Looker Dashboard"
+excerpt: "A simple report dashboard with important marketing campaigns metrics  - Tools: Looker, GA4 <br/><img src='/images/Captura de ecrã 2025-09-04 133203.png'>" 
+collection: portfolio
+---
+
+
+
+<h2>Overview</h2>
+<p>
+  This project simulates a Marketing report dashboard, which the goal is to showcase key KPIs for a e-commerce business. This report integrates data from GA4, Google Ads and Meta ads to provide an overview of the marketing performance.
+  The primary goal of this report is to keep stakeholders informed about current state of digital marketing campaigns, highlighting trends in traffic, conversions and advertising effectiveness. 
+  This kind of dashboard simplifies performance motitoring and supports data-driven decision-making at a glance.
+
+
+<h2>Data Source</h2>
+
+<p>
+  GA4 demo account and meta ads sample dataset.
+</p>
+
+<p>
+  Dashboard visualization available below, or  <a href="https://lookerstudio.google.com/s/tfMoDDFyBR0" target="_blank">CLICK HERE</a>.
+</p>
+
+<iframe 
+    width="1140" 
+    height="541" 
+    src="https://lookerstudio.google.com/s/tfMoDDFyBR0" 
+    frameborder="0" 
+    allowFullScreen="true">
+</iframe>
+
+
+
