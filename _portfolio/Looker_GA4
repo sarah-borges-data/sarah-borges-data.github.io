@@ -8,7 +8,7 @@ collection: portfolio
 
 <h2>Overview</h2>
 <p>
-  This project simulates a Marketing report dashboard, which the goal is to showcase key KPIs for a e-commerce business. This report integrates data from GA4, Google Ads and Meta ads to provide an overview of the marketing performance.
+  This project simulates a Marketing report dashboard, which the goal is to showcase key KPIs for an e-commerce business. This report integrates data from GA4, Google Ads and Meta ads to provide an overview of the marketing performance.
   The primary goal of this report is to keep stakeholders informed about current state of digital marketing campaigns, highlighting trends in traffic, conversions and advertising effectiveness. 
   This kind of dashboard simplifies performance motitoring and supports data-driven decision-making at a glance.
 
@@ -20,16 +20,16 @@ collection: portfolio
 </p>
 
 <p>
-  Dashboard visualization available below, or  <a href="https://lookerstudio.google.com/s/nTXWydwqzt8" target="_blank">CLICK HERE</a>.
+  Dashboard visualization available below, or  <a href="https://lookerstudio.google.com/reporting/eb4d4cbb-9a63-41a4-abd0-4a10633383f8" target="_blank">CLICK HERE</a>.
 </p>
 
 <iframe 
     width="1140" 
     height="541" 
-    src="https://lookerstudio.google.com/s/nTXWydwqzt8" 
+    src="https://lookerstudio.google.com/embed/s/spY6OZnxIHtg" 
     frameborder="0" 
-    allowFullScreen="true">
+    style="border:0" 
+    allowfullscreen>
 </iframe>
-
 
 
