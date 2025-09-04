@@ -1,6 +1,6 @@
 ---
-title: "Marketing Performance Looker Dashboard"
-excerpt: "A simple report dashboard with important marketing campaigns metrics  - Tools: Looker, GA4 <br/><img src='/images/Captura de ecrã 2025-09-04 133203.png'>" 
+title: "Performance Marketing - Looker Dashboard"
+excerpt: "A simple report dashboard with important marketing campaigns metrics  - Tools: Looker, GA4 <br/><img src='/images/Design sem nome (2).png'>" 
 collection: portfolio
 ---
 
@@ -20,13 +20,13 @@ collection: portfolio
 </p>
 
 <p>
-  Dashboard visualization available below, or  <a href="https://lookerstudio.google.com/s/tfMoDDFyBR0" target="_blank">CLICK HERE</a>.
+  Dashboard visualization available below, or  <a href="https://lookerstudio.google.com/s/nTXWydwqzt8" target="_blank">CLICK HERE</a>.
 </p>
 
 <iframe 
     width="1140" 
     height="541" 
-    src="https://lookerstudio.google.com/s/tfMoDDFyBR0" 
+    src="https://lookerstudio.google.com/s/nTXWydwqzt8" 
     frameborder="0" 
     allowFullScreen="true">
 </iframe>
