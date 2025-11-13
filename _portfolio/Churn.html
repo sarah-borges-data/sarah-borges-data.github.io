@@ -1,0 +1,87 @@
+---
+title: "Churn Analysis with Churn propability prediction"
+excerpt: "Churn Analysis of a telecommunications company using Power BI and Machine Learning. Tools: Python, Power BI, XGBoost Model <br/><img src=' /images/Captura de ecrã 2025-10-10 121734.png'>" 
+collection: portfolio
+---
+
+
+
+<h2>Introduction</h2>
+<p>
+  This project simulates a Telecommunications company with the goal of improving customer retention. The goal is to create an informative dashboard that can help the company's stakeholders to make decisions.
+
+  The Company of the sector of Telecommunications, aims to improve the customer’s retention 
+Goal: Identify high value customers and churn risks
+Deliverable: A single page Power BI Dashboard
+
+</p>
+<p>These are the main key points the company wishes to solve:</p>
+<ul>
+  <li><strong>Improve Customer Retention</strong>: The company wants to reduce the Churn Rate</li>
+  <li><strong>Identify High Value Customers</strong>: The company wants to identify high value customers to implement rewards programs</li>
+  <li><strong>Identify Customers with High Risk of Churn</strong>: The company wants to identify high risk of churning in order to target these customers</li>
+</ul>
+
+<h2>The Dataset</h2>
+
+<p>The dataset represents the last quarter of operations of the company. It includes informations about the customer demographics, the customer's services subscriptions, the customer's status and 
+billing information.</p>
+<p>
+  You can find the dataset, the python notebook and other information about the project by 
+  <a href="https://github.com/sarah-borges-data/Projects/tree/main/ChurnAnalysis" target="_blank">CLICKING HERE</a>.
+</p>
+
+<h2>Tools</h2>
+<ul>
+  <h3>Python and Machine Learning</h3>
+  <li> The first task was to perform an initial exploratory data analysis of the dataset and fill all the empty values from the dataset (other data cleaning tasks were not needed).  </li>
+  <li>The next task was to create an machine learning model that could predict wether the customer was going to churn or not, using the XGBoost Model to make a supervised classification test. For this task, the Scikit-learn libray was used </li> 
+  <li>The first confusion matrix obtained had an 0.88 score for 'not churned' prediction and an 0.62 score for 'Churned' predictions. To improve this metric, a randomized hyperparameter tunning was performed to search for the best model parameters</li>
+  <li>The best model obtained from the hyperparameter tunning had an score of 0.88 score for 'not churned' prediction and an 0.73 score for 'Churned' predictions. The feature importance analysis reaveled that 
+    the feature with the most importance was wether the contract was the type of 'month-to-month' contract, and the second was if the contract was 'two-years' type. Others features had minor importance for the model.
+  </li>
+  <li>The final phase was to calculate the probabilities of the customers to churn based on the model.</li>
+
+   <h3>Power BI</h3> 
+   <li>After the data was pre-processed in python, the next step was to create the data modelling in Power BI</li>
+   <li>The Model Schema used for this project was a Snowflake Schema.</li>
+   <li><img src=' /images/Design sem nome (3).png'></li>
+   <li>To create metrics for visualizations and calculate the customer LTV, DAX operations were used in power BI.</li>
+   <li>The Final part of the project was to create the dashboard visualization and interpret the data.</li>
+
+</ul>
+
+<p>
+  Dashboard visualization below. You can also find the dashboard file on my github:   <a href="https://github.com/sarah-borges-data/Projects/tree/main/ChurnAnalysis">CLICK HERE</a>.
+</p>
+
+<video width="640" height="360" controls>
+  <source src="/images/Churn Analysis Dashboard.mp4" type="video/mp4">
+ </video>
+
+
+
+<h2>Findings</h2>
+
+<ul>
+  <li>Churn rate for the analysed period is 26,5%, which is in the average churn rate of the telecommunications industry (20-50%). Source: https://tridenstechnology.com/telecom-churn/</li>
+  <li>Customers with less than 6 months have high churn rates</li>
+  <li>Offer E and 'No offer' are associated with a higher probability of churn</li>
+  <li>Support attitude and competition are major churn reasons</li>
+  <li>Credit card as a payment method has a smaller churn rate</li>
+  <li>Month-to-month contracts churns the most, while two-year contracts churn less</li>
+</ul>
+
+<h2>Recommendations</h2>
+
+<ul>
+  <li>Improve early customer experience, avoiding that customers leave the company in the first 6 months</li>
+  <li>Review Offer E and benchmark the competitors to improve the offers</li>
+  <li>Improve customer service and support quality</li>
+  <li>Promote longer period contracts and credit card payment method</li>
+  <li>Target high churn-probability customers to improve their offer and benefits</li>
+  <li>Reward and retain high LTV customers</li>
+  <li>Results in Short-term: Service quality improvements, Offer E redesign</li>
+  <li>Results in Medium-term: Early engagement program, proactive churn targeting</li>
+  <li>Results in Long-term: Loyalty and rewards program, shift towards longer contracts</li>
+</ul>
