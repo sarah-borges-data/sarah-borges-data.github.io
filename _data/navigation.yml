@@ -26,9 +26,5 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "CV EN"
-    url: /files/Sarah_CV_EN.pdf
-    
-  - title: "CV PT"
-    url: /files/CV_PT.pdf
+  
 
